@@ -1,0 +1,11 @@
+{
+  "name": "zerodha-clone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zerodha Clone full-stack application",
+  "scripts": {
+    "start:backend": "npm start --prefix backend",
+    "start:frontend": "npm start --prefix frontend",
+    "start:dashboard": "npm start --prefix Dashboard"
+  }
+}
